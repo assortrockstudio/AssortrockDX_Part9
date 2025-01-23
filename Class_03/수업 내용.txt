@@ -1,0 +1,3 @@
+1. Decal 광원으로 취급하는 기능 추가
+
+2. BlendState DecalBlend 추가

@@ -1,0 +1,1 @@
+1. Deferred 렌더링을 통해서 Decal 기능 추가하기
